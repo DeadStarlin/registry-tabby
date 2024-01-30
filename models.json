@@ -1,0 +1,10 @@
+[
+  {
+    "name":"CodeLlama-7B-Python",
+    "provider_url":"https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF",
+    "license_name": "llama2",
+    "prompt_template":"<PRE> {prefix} <SUF>{suffix} <MID>",
+    "urls":["https://huggingface.co/TheBloke/CodeLlama-7B-Python-GGUF/raw/main/codellama-7b-python.Q4_K_M.gguf"],
+    "sha256":"a623f4cd1dd5c68235d02683a3d92d0154dfd174df58e6cb05b3bc55befa4fc8"
+  }
+]
